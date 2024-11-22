@@ -1,0 +1,4 @@
+latihan hari ini
+- belajar git dan github
+- belajar react
+- belajar node js
