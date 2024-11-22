@@ -3,4 +3,4 @@ latihan hari ini
 - belajar react
 - belajar node js
 - belajar telwincss
-- belajar bostrapp
+- belajar kotlin
